@@ -1,5 +1,4 @@
-# peekcodedev-latihan-chart
 # Penerapan ChartJS Codeigniter 3
+Untuk Latihan Full dari Youtube:
 
-
-pertemuan  gak tau
+https://www.youtube.com/@ChartJS-tutorials
